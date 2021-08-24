@@ -1,0 +1,18 @@
+
+.item-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  height: 25px;
+}
+
+.item-span {
+  margin: 1px;
+  width: 155px;
+  height: 30px;
+  border: 1px solid black;
+  background-color: #e0e0e0;
+  border-radius: 3px;
+}
+
